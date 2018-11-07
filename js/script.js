@@ -76,9 +76,9 @@ document.getElementById('send').addEventListener('click', () =>
 	document.getElementById('enterID').innerHTML = "<h4>Your Student ID:</h4>";
 	document.getElementById('studentID').innerHTML = student_id;
 	document.getElementById('trialNO').innerHTML = tnum;
-	if (tnum == 0 || tnum == 2)
+	if (tnum == 2 || tnum == 3)
 		document.getElementById('tl').innerHTML = "<b><i>3. MOVE along to the rhythm while listening!</i></b>";
-	else if (tnum == 1 || tnum == 3)
+	else if (tnum == 0 || tnum == 1)
 		document.getElementById('tl').innerHTML = "<b><i>3. DO NOT MOVE while listening.</i></b>";
 });
 

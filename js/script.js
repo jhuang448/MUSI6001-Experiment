@@ -5,7 +5,7 @@ var reaction_time;
 var audio_playing = false;
 var play_times = 0;
 var audio_tree = ['audio/stimuli/m2_sample.wav', 'audio/stimuli/m2_1.wav', 'audio/stimuli/m2_2.wav', 'audio/stimuli/m4_1.wav', 'audio/stimuli/m4_2.wav', 'audio/stimuli/m6_1.wav', 'audio/stimuli/m6_2.wav', 'audio/stimuli/m8_1.wav', 'audio/stimuli/m8_2.wav'];
-var random_file = [[0,1,3,5,7],[0,2,4,6,8],[0,1,3,5,7],[0,2,4,6,8]];
+var random_file = [[0,1,3,5],[0,2,4,6],[0,1,3,5],[0,2,4,6]];
 var tnum = 0;
 var audio_idx = 0;
 

@@ -1,4 +1,4 @@
-# MusicCognitionAndPerception-Experiment
+# MUSI6001-Experiment
 
 Class Project for MUSI6001 (Music Cognition and Perception)
 Gatech, 2018 Fall
